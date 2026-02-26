@@ -37,12 +37,8 @@ Não se esqueça de gerar a sua migration para atualização no banco de dados.
 **Endpoints**
 
 
-| Verbo  | Endpoint                | Parâmetro | Body               |
-|--------|-------------------------|-----------|--------------------|
-| GET    | /Funcionario/{id}       | id        | N/A                |
-| PUT    | /Funcionario/{id}       | id        | Schema Funcionario |
-| DELETE | /Funcionario/{id}       | id        | N/A                |
-| POST   | /Funcionario            | N/A       | Schema Funcionario |
+<img width="1838" height="463" alt="image" src="https://github.com/user-attachments/assets/a1dd6737-25b2-44fa-982b-b2084907eb5d" />
+
 
 Esse é o schema (model) de Funcionario, utilizado para passar para os métodos que exigirem:
 
