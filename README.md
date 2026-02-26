@@ -30,10 +30,6 @@ Não se esqueça de gerar a sua migration para atualização no banco de dados.
 
 **Swagger**
 
-
-![Métodos Swagger](Imagens/swagger.png)
-
-
 **Endpoints**
 
 
@@ -60,5 +56,3 @@ Este é um diagrama do ambiente que deverá ser montado no Microsoft Azure, util
 ![Diagrama da classe Funcionario](Imagens/diagrama_api.png)
 
 
-## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima, incluindo a sua publicação na nuvem.
